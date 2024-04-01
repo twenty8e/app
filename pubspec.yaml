@@ -1,0 +1,19 @@
+name: test1
+description: A Flutter project
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"  # Specifies the Dart SDK version range
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2  # Example dependency
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
